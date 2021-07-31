@@ -1,2 +1,3 @@
 merhaba dünya
-hello worşd
+hello word
+how are you
